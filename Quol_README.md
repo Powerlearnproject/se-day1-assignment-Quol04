@@ -7,8 +7,8 @@ a) Explain what software engineering is and discuss its importance in the techno
     ###software engineering is the systematic process of the design, development, testing, deployment, and maintenance of software 
      that can solve real-world problems.
                       ###importance 
-     Supports Innovation and Digital Transformation
-     contributes significantly to the global economy by generating jobs, 
+     Supports Innovation and Digital Transformation.
+     contributes significantly to the global economy by generating jobs. 
      
 
 b) Identify and describe at least three key milestones in the evolution of software engineering.
