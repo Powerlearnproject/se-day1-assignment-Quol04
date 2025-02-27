@@ -8,6 +8,11 @@ a) Explain what software engineering is and discuss its importance in the techno
 b) Identify and describe at least three key milestones in the evolution of software engineering.
 
 c) List and briefly explain the phases of the Software Development Life Cycle.
+     --Initiation- define project goals and objectives and  conduct a feasibility study,
+     --planning-define the project scope, schedule, and budget
+     --Execution -assign tasks to team members and execute project plans
+     --Monitoring and controlling-track project progress and performing quality control
+     --Closure -Obtain formal acceptance of deliverables and finalize project activities.
 
 d) Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
