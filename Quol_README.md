@@ -4,6 +4,12 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 a) Explain what software engineering is and discuss its importance in the technology industry.
+    ###software engineering is the systematic process of the design, development, testing, deployment, and maintenance of software 
+     that can solve real-world problems.
+                      ###importance 
+     Supports Innovation and Digital Transformation
+     contributes significantly to the global economy by generating jobs, 
+     
 
 b) Identify and describe at least three key milestones in the evolution of software engineering.
 
@@ -15,6 +21,14 @@ c) List and briefly explain the phases of the Software Development Life Cycle.
      --Closure -Obtain formal acceptance of deliverables and finalize project activities.
 
 d) Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+    Waterfall--clear and sequential approach
+    Agile--iterative and incremental approach to project and software management
+                                 Advantages 
+        Quick response to changes                                      clear structure and documentation
+        regular customer feedback                                      is easy to manage due to its rigidity
+                                 Disadvantages 
+        less predictability                                             Difficult to accom changes
+        customer involvement                                             testing occurs late in the process
 
 e) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
