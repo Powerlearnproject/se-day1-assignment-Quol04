@@ -15,7 +15,7 @@ b) Identify and describe at least three key milestones in the evolution of softw
 
 c) List and briefly explain the phases of the Software Development Life Cycle.
      -- Initiation- define project goals and objectives, and  conduct a feasibility study,
-     -- planning-define the project scope, schedule, and budget
+     -- planning- define the project scope, schedule, and budget
      -- Execution -assign tasks to team members and execute project plans
      -- Monitoring and controlling -track project progress and performing quality control
      -- Closure -Obtain formal acceptance of deliverables and finalize project activities.
@@ -31,8 +31,16 @@ d) Compare and contrast the Waterfall and Agile methodologies. Provide examples 
         customer involvement                                             testing occurs late in the process
 
 e) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+        Software Developer
+Roles and responsibilities
+        Quality Assurance Engineer
+Roles and responsibilities
+        Project Manage
+Roles and responsibilities
 
 f) Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Integrated Development Environments (IDEs)
+Version Control Systems (VCS)
 
 g) What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
