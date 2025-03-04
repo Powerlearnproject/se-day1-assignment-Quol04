@@ -69,8 +69,15 @@ Code History & Change Tracking -- With VCS, every code change is recorded, allow
 
 
 g) What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-Challenges 
-Strategies to overcome them
+
+ Challenge: Identifying and fixing bugs in large, complex codebases can be time-consuming and frustrating.
+soln: Use debugging tools, log errors properly, write unit tests, and break down the problem into smaller components to isolate and resolve issues efficiently.
+
+ Challenge: New programming languages, frameworks, and tools emerge frequently, requiring continuous learning
+soln: Stay updated by reading technical blogs, attending webinars, joining developer communities, and practicing with small side projects to experiment with new technologies.
+
+ Challenge: Balancing multiple tasks while meeting deadlines can lead to stress and burnout.
+soln:  Use agile methodologies, set realistic timelines, prioritize tasks, and utilize project management tools like Jira or Trello to stay organized
 
 h) Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit testing
