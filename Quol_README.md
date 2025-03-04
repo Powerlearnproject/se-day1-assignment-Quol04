@@ -32,22 +32,43 @@ d) Compare and contrast the Waterfall and Agile methodologies. Provide examples 
 
 e) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
         Software Developer
-Roles and responsibilities
+Roles 
+Responsibilities
         Quality Assurance Engineer
-Roles and responsibilities
-        Project Manage
-Roles and responsibilities
+Roles
+Analyzes software requirements and creates test cases to ensure all functionalities are covered.
+Conducts performance and load testing to evaluate software scalability and efficiency.
+Responsibilities
+Develops a test plan, defining the scope, objectives, and approach for testing.
+Ensures that new changes do not negatively impact existing functionality and validates software with end users.
+
+        Project Manager
+     Roles 
+Defines project scope, objectives, and timelines while creating a roadmap for successful execution.
+Guides and motivates team members, assigns tasks, and ensures collaboration among stakeholders.
+     Responsibilities
+Tracks project progress, prepares status reports, and communicates updates to stakeholders
+Creates detailed project plans, including timelines, deliverables, and milestones.
+
 
 f) Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments (IDEs)
 Version Control Systems (VCS)
 
 g) What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+Challenges 
+Strategies to overcome them
 
 h) Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit testing
+Integration testing
+System testing
+Acceptance testing
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 a) Define prompt engineering and discuss its importance in interacting with AI models.
+
+Importance
 
 b) Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
