@@ -32,17 +32,24 @@ d) Compare and contrast the Waterfall and Agile methodologies. Provide examples 
 
 e) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
         Software Developer
-Roles 
-Responsibilities
-        Quality Assurance Engineer
-Roles
+     Roles 
+Understanding user requirements and designing software solutions to meet business objectives.
+Writing, debugging, and maintaining code in programming languages
+     Responsibilities
+Understanding project needs by communicating with stakeholders and gathering requirements
+Planning software architecture, structure, and technology stack before development
+
+
+   Quality Assurance Engineer
+       Roles
 Analyzes software requirements and creates test cases to ensure all functionalities are covered.
 Conducts performance and load testing to evaluate software scalability and efficiency.
-Responsibilities
+     Responsibilities
 Develops a test plan, defining the scope, objectives, and approach for testing.
 Ensures that new changes do not negatively impact existing functionality and validates software with end users.
 
-        Project Manager
+
+ Project Manager
      Roles 
 Defines project scope, objectives, and timelines while creating a roadmap for successful execution.
 Guides and motivates team members, assigns tasks, and ensures collaboration among stakeholders.
@@ -53,7 +60,13 @@ Creates detailed project plans, including timelines, deliverables, and milestone
 
 f) Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments (IDEs)
+Increased Productivity & Efficiency -- IDEs streamline the development process by integrating multiple tools like code editors, debuggers, and compilers in a single interface.
+Better Code Quality & Debugging -- IDEs come with built-in debugging tools that allow developers to set breakpoints, inspect variables, and step through code execution to identify and fix issues quickly
+
 Version Control Systems (VCS)
+Code Collaboration & Teamwork -- VCS enables multiple developers to work on the same project simultaneously without overwriting each other's changes
+Code History & Change Tracking -- With VCS, every code change is recorded, allowing developers to track modifications, revert to previous versions, and understand who made what changes and why
+
 
 g) What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Challenges 
